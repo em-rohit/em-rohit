@@ -1,4 +1,4 @@
-👋 Hey, I'm Rohit — a software developer with 7+ years of experience, passionate about building real-world solutions.
+👋 Hey, I'm Rohit — a software developer with 7+ years of experience, passionate about building real-world solutions <>.
 
 Over the years, I’ve worked with a broad set of technologies and domains, wearing many hats across development and IT. I'm a full-stack developer at heart with strong skills in JavaScript, React, Java, Android, Python, Data Science, and AI — with an eye for clean architecture and good design.
 
